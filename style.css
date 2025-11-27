@@ -89,6 +89,7 @@ nav > ul a:hover {
 }
 .right1 > img {
   width: 100%;
+  border-radius: 20px;
 }
 .left1 {
   border-left: 3px dashed #ff6253;
@@ -97,7 +98,7 @@ nav > ul a:hover {
   width: 90%;
   font-size: 2.5rem;
   color: transparent;
-  margin: 30px auto;
+  margin: 40px auto;
   background-clip: text;
   -webkit-background-clip: text;
   background-image: linear-gradient(
@@ -117,7 +118,7 @@ nav > ul a:hover {
   width: 90%;
   font-size: 1.5rem;
   color: #ffa20c;
-  margin: 30px auto;
+  margin: 35px auto;
   text-align: left;
   line-height: 30px;
   font-weight: 400;
